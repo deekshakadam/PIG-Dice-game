@@ -1,4 +1,4 @@
-# PIG-game
+# PIG-Dice game
 /* HTML,CSS, javaScript 
 GAME RULES:
 
